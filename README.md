@@ -1,2 +1,2 @@
 # nothesaplama
-Benim Tarafımdan Yapılan Not Hesaplama Botu
+Benim Tarafımdan Yapılan Not Hesaplama Kodu
